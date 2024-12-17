@@ -5,3 +5,5 @@ This is a project which demonstrates various skills in AI and Amazon AWS includi
 For inference, I built a streamlined pipeline that loads images, processes them through the SageMaker endpoint, and visualizes the resulting segmentation masks, effectively identifying different objects within each image. The model successfully processes images in real-time, producing detailed segmentation masks that highlight distinct object classes including background and border.
 
 This implementation showcases both the power of cloud-based ML deployment and practical computer vision applications in a production environment.
+
+My biggest challenge with this project was two-fold: figuring out how to not accrue excessive cost, and figuring out how to properly process data for inference.
