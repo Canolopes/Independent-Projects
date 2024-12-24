@@ -6,4 +6,4 @@ I figured this was a way to showcase a few more skills I had not demonstrated as
 
 This project is still subject to updates, as I wanted to display the first iteration of my LLM and the reponses it gives to certain prompts based on NBA knowledge. I originally used a gpt2-large model as my base, but switched to Falcon 7b as I felt it was more suited for my hardware limitations.
 
-It's safe to say it's not perfect by any means, but needs some work as far as staying on topic and avoiding extra rambling and giving concise answers.
+It's safe to say it's not perfect by any means, but needs some work as far as staying on topic and avoiding extra rambling and giving concise answers. It did give the correct answer for the first question but then just added nonsense and repetition. The second question was close but it was wrong. The third question was wrong but historically was correct for a long time, a little context would help the model.
