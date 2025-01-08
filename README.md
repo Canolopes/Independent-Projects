@@ -10,3 +10,6 @@ This README will be dynamically updated to display various skills implemented, i
 - Deep Learning
 - Model Deployment and Inference (MLOps)
 - Artificial Intelligence
+- Large Language Models
+- Web Scraping (BeautifulSoup)
+- Falcon 7B
